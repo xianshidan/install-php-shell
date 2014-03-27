@@ -1,4 +1,4 @@
-install-php-shell
+NAME
 =================
 
-一键安装centos下php环境的shell脚本
+A key to install php environment on centos system.
